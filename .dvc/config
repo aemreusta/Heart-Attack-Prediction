@@ -1,8 +1,8 @@
 [core]
     autostage = true
-    remote = myremote
-['remote "myremote"']
-    url = gdrive://1d8Dgijb0j2XXXMsNd141eR_FCMOqtOWf
-    gdrive_acknowledge_abuse = true
+    remote = GDrive-Emre-BFRSS
 ['remote "huseyingoogledrive"']
     url = gdrive://1lsz9MSeoY8Wdsu-wQUH7UHR0kviUZPq1
+['remote "GDrive-Emre-BFRSS"']
+    url = gdrive://1d8Dgijb0j2XXXMsNd141eR_FCMOqtOWf
+    gdrive_acknowledge_abuse = true
