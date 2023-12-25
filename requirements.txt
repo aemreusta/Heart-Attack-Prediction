@@ -2,3 +2,6 @@ pre-commit
 ruff
 sas7bdat
 pandas
+xgboost
+catboost
+matplotlib
